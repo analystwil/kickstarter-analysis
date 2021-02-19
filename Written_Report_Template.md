@@ -12,7 +12,7 @@ For Outcomes Based on Goal I performed my analysis by seperating successful and 
 
 ### Analysis of Outcomes Based on Goals
 
-[Outcomes Based on Goals for Fundraisers](https://github.com/analystwil/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png?raw=true)
+![Outcomes Based on Goals for Fundraisers](https://github.com/analystwil/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png?raw=true)
 
 For Theater Outcomes by Launch Date I crated a pivot table and line graph based off of every month to to see the campaign outcomes by launch month. I narrowed the results down based on Parent Category to generate the appropriate date for the pivot table.
 
